@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/paisTextView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/pais"
+        android:textColor="@color/pais_textcolor"
+        android:textSize="@dimen/pais_textsize" />
+
+    <ImageView
+        android:id="@+id/flagImageView"
+        android:layout_width="@dimen/flagImageView"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_gravity="center"
+        android:contentDescription="@string/flag_desc"
+        android:src="@drawable/flag" />
+
+    <ImageView
+        android:id="@+id/foodImageView"
+        android:layout_width="@dimen/foodImageView"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_gravity="center"
+        android:contentDescription="@string/food_desc"
+        app:srcCompat="@drawable/food" />
+
+    <TextView
+        android:id="@+id/foodTextView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/food"
+        android:textColor="@color/food_textcolor"
+        android:textSize="@dimen/food_textsize" />
+
+</LinearLayout>

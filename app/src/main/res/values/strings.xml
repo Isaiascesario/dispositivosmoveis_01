@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Países</string>
+    <string name="flag_desc">Bandiera dell\'Italia</string>
+    <string name="pais">Italia</string>
+    <string name="food">Spaghetti</string>
+    <string name="food_desc">Un piatto di spaghetti</string>
+</resources>

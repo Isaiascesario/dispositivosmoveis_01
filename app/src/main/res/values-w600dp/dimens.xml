@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="flagImageView">300dp</dimen>
+    <dimen name="foodImageView">300dp</dimen>
+    <dimen name="pais_textsize">60sp</dimen>
+    <dimen name="food_textsize">60sp</dimen>
+</resources>
