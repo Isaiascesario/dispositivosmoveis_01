@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Länder</string>
+    <string name="pais">Deutschland</string>
+    <string name="food_desc">Eine Brezel</string>
+    <string name="food">Brezel</string>
+    <string name="flag_desc">Deutschland Flagge</string>
+</resources>

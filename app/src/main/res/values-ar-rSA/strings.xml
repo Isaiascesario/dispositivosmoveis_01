@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الدول</string>
+    <string name="flag_desc">علم المملكة العربية السعودية</string>
+    <string name="food">لحم بصلفيها</string>
+    <string name="food_desc">لوح لحم</string>
+    <string name="pais">المملكة العربية السعودية</string>
+</resources>
